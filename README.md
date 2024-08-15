@@ -5,5 +5,4 @@
 ### Meu nome é Victor Hugo
 ### Estou me desenvolvendo na linguagem JavaScript
 ### Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
-### [Baixista](https://media1.tenor.com/m/RaZNgdYw6SUAAAAC/playing-bass-guitar-ryan-scott-graham.gif)
-### Estou estudando na [Alura](https://www.alura.com.br)
+![](https://media1.tenor.com/m/RaZNgdYw6SUAAAAC/playing-bass-guitar-ryan-scott-graham.gif)
