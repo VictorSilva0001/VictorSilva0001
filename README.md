@@ -7,4 +7,4 @@
 ### Sou Cristão ✝
 ### Toco Contrabaixo e jogo Tenis de Mesa
 ![](https://c.tenor.com/RaZNgdYw6SUAAAAC/tenor.gif)
-![](https://media.tenor.com/9GEM5TECjDMAAAAM/boom.gif)
+![](https://media.tenor.com/7TXsIVm7G6QAAAAM/ping-pong.gif)
