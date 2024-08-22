@@ -4,7 +4,7 @@
 ### Meu nome é Victor Hugo
 ### Estou me desenvolvendo na linguagem JavaScript
 ### Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
-### Sou Cristão ✝
+### Cristão ✝
 ### Toco Contrabaixo e jogo Tenis de Mesa
 ![](https://c.tenor.com/RaZNgdYw6SUAAAAC/tenor.gif)
 ![](https://media.tenor.com/7TXsIVm7G6QAAAAM/ping-pong.gif)
